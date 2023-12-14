@@ -1,0 +1,17 @@
+{
+    "name": "suendri/pbwl-project7",
+    "description": "Project 7 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suendri",
+            "email": "mr.suendri@gmail.com"
+        }
+    ],
+    "require": {}
+}
